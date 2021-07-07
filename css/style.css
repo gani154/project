@@ -1,0 +1,32 @@
+#inlineFormInputName{
+    width: 50%;
+}
+#infoarea{
+    background-color: #FFFFE1;
+    padding: 10px 20px;
+}
+
+button, input, optgroup, select, textarea, label {
+    margin: 10px 2px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 7px;
+}
+
+
+
+table th{
+    background-color: #FDFE04;
+
+}
+
+
+
+tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    padding: 6px 4px;
+    height: 33px;
+}
